@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning kubernetes, docker, jenkins
 - 📫 How to reach me: fadi.sami.goda@gmail.com
 
-?quote=hi
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Codes%20are%20a%20puzzle.%20A%20game%2C%20just%20like%20any%20other%20game.&author=Alan%20Turing)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **Fady120/Fady120** is a ✨ _special_ ✨![Uploading image.png…]() repository because its `README.md` (this file) appears on your GitHub profile.
