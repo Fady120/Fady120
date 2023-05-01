@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead]![image](https://user-images.githubusercontent.com/71595290/235447146-b7e6134c-8fc4-4f95-a80e-a8496bd77a8f.png)]https://github.com/Fady120
+[[image](https://user-images.githubusercontent.com/71595290/235447146-b7e6134c-8fc4-4f95-a80e-a8496bd77a8f.png)]
 <!--
 **Fady120/Fady120** is a ✨ _special_ ✨![Uploading image.png…]() repository because its `README.md` (this file) appears on your GitHub profile.
 
