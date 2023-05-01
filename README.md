@@ -1,4 +1,4 @@
-(![image](https://user-images.githubusercontent.com/71595290/235447913-9a589668-74da-4146-aaf0-434779ed37e3.png))
+![image](https://user-images.githubusercontent.com/71595290/235447913-9a589668-74da-4146-aaf0-434779ed37e3.png)
 <!--
 **Fady120/Fady120** is a ✨ _special_ ✨![Uploading image.png…]() repository because its `README.md` (this file) appears on your GitHub profile.
 
