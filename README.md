@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning kubernetes, docker, jenkins
 - 📫 How to reach me: fadi.sami.goda@gmail.com
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+
 <!--
 **Fady120/Fady120** is a ✨ _special_ ✨![Uploading image.png…]() repository because its `README.md` (this file) appears on your GitHub profile.
 
