@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/71595290/235447913-9a589668-74da-4146-aaf0-434779ed37e3.png)
 
-- 🔭 I’m currently a Computer Engineering student at AAST
+- 🔭 I’m currently a cloud architecture student at ITI
 <!-- 🌱 I’m currently learning many different Devops concepts and tools -->
 - 📫 How to reach me: fadi.sami.goda@gmail.com
 
