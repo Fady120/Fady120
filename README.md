@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/71595290/235447913-9a589668-74da-4146-aaf0-434779ed37e3.png)
 
-# Hi there! I'm Fady Goda 👋  
-
 🚀 **Cloud & DevOps Engineer** | Passionate about automation, cloud computing, and scalable infrastructure.  
 
 🔭 I’m currently a Cloud Architecture student at ITI.  
