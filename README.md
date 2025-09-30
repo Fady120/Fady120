@@ -2,7 +2,7 @@
 
 🚀 **DevOps Engineer @ NBK**
 
-⚙️ Experienced in Kubernetes, Terraform, Ansible, CI/CD, and cloud platforms like AWS & OpenStack.  
+⚙️ Experienced in Kubernetes, Terraform, Ansible, CI/CD, and cloud platforms like AWS.
 📜 Certified in AWS, RHEL, Nutanix, and HCCDA Tech Essentials.  
 📫 How to reach me: fadi.sami.goda@gmail.com  
 
