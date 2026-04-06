@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/71595290/235447913-9a589668-74da-4146-aaf0-434779ed37e3.png)
 
-🚀 **Cloud & DevOps Engineer**
+🚀 **DevOps & Automation Engineer**
 
 ⚙️ Experienced in Kubernetes, Terraform, Ansible, CI/CD, and cloud platforms like AWS.
 📜 Certified in AWS, RHEL, Nutanix, and HCCDA Tech Essentials.  
