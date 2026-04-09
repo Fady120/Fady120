@@ -1,0 +1,12 @@
+{
+  "name": "fady-goda-portfolio",
+  "version": "1.0.0",
+  "description": "Arcane-themed DevOps portfolio for Fady Goda",
+  "scripts": {
+    "start": "npx serve . --listen 3000 --no-clipboard",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": ["portfolio", "devops", "arcane"],
+  "author": "Fady Goda",
+  "license": "MIT"
+}
