@@ -16,13 +16,14 @@ Role:          DevOps & Automation Engineer
 Labels:        iac=terraform,ansible
                orchestration=kubernetes
                cloud=aws,gcp,openstack
-Certified:     AWS · RHEL · Nutanix · HCCDA Tech Essentials
+Certified:     CKS · GCP Professional Cloud Architect
+               AWS · RHEL · Nutanix · HCCDA Tech Essentials
 Status:        Running ✅
 
 Events:
   Type    Reason      Message
   ----    ------      -------
-  Normal  Studying    Preparing for CKS and GCP Professional Cloud Architect
+  Normal  Studying    Preparing for Red Hat OpenShift Administrator (EX280)
   Normal  Building    recall-study-buddy — AI flashcards with spaced repetition
 ```
 
